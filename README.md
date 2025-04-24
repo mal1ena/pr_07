@@ -18,3 +18,18 @@
 1. Установите PostgreSQL и настройте доступ к базе данных.
 2. Выполните SQL-скрипт `create_db_and_tables.sql` для создания базы данных и таблиц.
 3. Откройте и выполните VS Code для проверки выполнения заданий.
+
+## Индивидуальные задания
+1. Создайте таблицу "Hospital" с полями ID, NAME, BED_COUNT.
+   ![image](https://github.com/user-attachments/assets/be798114-b3d2-464a-baa0-afc8f502bb51)
+2. Обновите стаж доктора с ID=102 на 5 лет.
+   ![image](https://github.com/user-attachments/assets/8b159c50-76a7-4852-8d84-b99d4a03e365)
+3. Обновите стаж врача с ID=103 на 3 года.
+   ![image](https://github.com/user-attachments/assets/ce54721b-f4fa-49bb-8413-84a5ac80bb10)
+4. Получите список врачей с зарплатой больше 40000 в больнице с ID=3.
+   ![image](https://github.com/user-attachments/assets/db01c11f-51d1-44c4-aacc-6167a8852772)
+5. Постройте линейный график с количеством больниц по количеству мест.
+   ![image](https://github.com/user-attachments/assets/f9e05cd3-312d-4c5e-b48d-48a898d15a48)
+
+
+
